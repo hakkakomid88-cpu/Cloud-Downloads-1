@@ -1,0 +1,27 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4643",
+  "folder": "YouTube__watch_20260514071734_a2a82f",
+  "base_name": "Mouthwashing_(FULL_GAME)_rrDNvcR_08U_1080p.mp4",
+  "is_split": true,
+  "part_count": 2,
+  "release_url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-1/releases/tag/co-releases-v1-4643",
+  "files": [
+    {
+      "name": "Mouthwashing_.FULL_GAME._rrDNvcR_08U_1080p.mp4.part00",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-1/releases/download/co-releases-v1-4643/Mouthwashing_.FULL_GAME._rrDNvcR_08U_1080p.mp4.part00",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-1/releases/assets/419970906",
+      "id": 419970906,
+      "size": 1703411551,
+      "download_count": 0
+    },
+    {
+      "name": "Mouthwashing_.FULL_GAME._rrDNvcR_08U_1080p.mp4.part01",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-1/releases/download/co-releases-v1-4643/Mouthwashing_.FULL_GAME._rrDNvcR_08U_1080p.mp4.part01",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-1/releases/assets/419971318",
+      "id": 419971318,
+      "size": 1703411551,
+      "download_count": 0
+    }
+  ]
+}
