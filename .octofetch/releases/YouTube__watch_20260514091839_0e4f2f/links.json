@@ -1,0 +1,27 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3938",
+  "folder": "YouTube__watch_20260514091839_0e4f2f",
+  "base_name": "Security_Booth_fA0L-bn0x6U_1080p.mp4",
+  "is_split": true,
+  "part_count": 2,
+  "release_url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-1/releases/tag/co-releases-v1-3938",
+  "files": [
+    {
+      "name": "Security_Booth_fA0L-bn0x6U_1080p.mp4.part00",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-1/releases/download/co-releases-v1-3938/Security_Booth_fA0L-bn0x6U_1080p.mp4.part00",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-1/releases/assets/420039051",
+      "id": 420039051,
+      "size": 1261009728,
+      "download_count": 0
+    },
+    {
+      "name": "Security_Booth_fA0L-bn0x6U_1080p.mp4.part01",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-1/releases/download/co-releases-v1-3938/Security_Booth_fA0L-bn0x6U_1080p.mp4.part01",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-1/releases/assets/420039392",
+      "id": 420039392,
+      "size": 1261009727,
+      "download_count": 0
+    }
+  ]
+}
