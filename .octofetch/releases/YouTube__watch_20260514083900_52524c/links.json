@@ -1,0 +1,27 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8313",
+  "folder": "YouTube__watch_20260514083900_52524c",
+  "base_name": "Skinfreak_BTEKRhsMkwM_1080p.mp4",
+  "is_split": true,
+  "part_count": 2,
+  "release_url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-1/releases/tag/co-releases-v1-8313",
+  "files": [
+    {
+      "name": "Skinfreak_BTEKRhsMkwM_1080p.mp4.part00",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-1/releases/download/co-releases-v1-8313/Skinfreak_BTEKRhsMkwM_1080p.mp4.part00",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-1/releases/assets/420016449",
+      "id": 420016449,
+      "size": 1859734472,
+      "download_count": 0
+    },
+    {
+      "name": "Skinfreak_BTEKRhsMkwM_1080p.mp4.part01",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-1/releases/download/co-releases-v1-8313/Skinfreak_BTEKRhsMkwM_1080p.mp4.part01",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-1/releases/assets/420016945",
+      "id": 420016945,
+      "size": 1859734472,
+      "download_count": 0
+    }
+  ]
+}
