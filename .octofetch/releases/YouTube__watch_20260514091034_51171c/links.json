@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7263",
+  "folder": "YouTube__watch_20260514091034_51171c",
+  "base_name": "Dread_Flats_1uYLSYO5D6Y_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-1/releases/tag/co-releases-v1-7263",
+  "files": [
+    {
+      "name": "Dread_Flats_1uYLSYO5D6Y_1080p.mp4",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-1/releases/download/co-releases-v1-7263/Dread_Flats_1uYLSYO5D6Y_1080p.mp4",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-1/releases/assets/420033456",
+      "id": 420033456,
+      "size": 1060619807,
+      "download_count": 0
+    }
+  ]
+}
